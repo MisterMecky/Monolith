@@ -21104,3 +21104,10 @@ Entries:
   id: 2326
   time: '2026-05-16T14:55:26.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4006
+- author: Ilya246
+  changes:
+    - type: Tweak
+      message: Expeds now work again.
+  id: 2327
+  time: '2026-05-16T15:03:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4007
